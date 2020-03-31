@@ -1,0 +1,10 @@
+.sidebar {
+  width: 35%;
+  float: right;
+  background-color: rgba(210,32,231,0.5);
+  padding: 20px;
+}
+
+.image {
+  max-width: 50%;
+}
