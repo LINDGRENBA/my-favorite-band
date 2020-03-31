@@ -7,6 +7,9 @@ h1 {
   width: 35%;
   background-color: rgba(210,32,231,0.3);
   padding: 20px;
+  border: 1.5px solid #000;
+  margin-left: 15px;
+  /* margin may not appear, due to running off to the left of the browser window? */
 }
 
 .main-image {
