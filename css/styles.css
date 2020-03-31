@@ -13,6 +13,8 @@ h1 {
   max-width: 50%;
 }
 
+/* MIDDLE SECTION */
+
 .more-info {
   background-color: rgba(210,32,231,0.3);
 }
@@ -26,4 +28,32 @@ h1 {
   float: left;
   width: 200px;
   height: auto;
+}
+
+/* IMAGE GALLERY */
+
+.gallery {
+  margin-top: 10px;
+}
+
+.gallery div {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  text-align: center;
+}
+
+.gallery img {
+  height: 100px;
+  width: 200px;
+}
+
+.credits {
+  padding: 20px;
+}
+
+.credits a {
+  width: 25%;
+  text-align: center;
+
 }
